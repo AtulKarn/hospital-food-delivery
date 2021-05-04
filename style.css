@@ -1,0 +1,11 @@
+.btn-container{
+    display: grid;
+    grid-template-columns: 200px;
+    grid-template-rows: 50px 50px;
+    grid-row-gap: 20px;
+    justify-content: space-evenly;
+}
+
+header{
+    display: inline;
+}
